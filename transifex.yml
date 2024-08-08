@@ -2,5 +2,5 @@ filters:
   - filter_type: file
     file_format: KEYVALUEJSON
     source_file: fr_FR.json
-    source_language: fr
+    source_language: fr_FR
     translation_files_expression: '<lang>.json'
